@@ -1,0 +1,36 @@
+.bash_history
+.cache/
+.config/
+.dotnet/
+.gitconfig
+.gk/
+.lesshst
+.local/
+.matplotlib/
+.node_repl_history
+.ssh/
+.swt/
+.vscode/
+3D Objects/
+AppData/
+Contacts/
+Desktop/
+Documents/
+Downloads/
+Favorites/
+Intel/
+JS/
+Links/
+MicrosoftEdgeBackups/
+Music/
+NTUSER.DAT*
+OneDrive/
+Pictures/
+Recorded Calls/
+Saved Games/
+Searches/
+Videos/
+YandexDisk/
+*.json
+*.dat
+*.ini
